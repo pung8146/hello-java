@@ -1,0 +1,8 @@
+이클립스에서 저장하면 자동으로 컴파일 클래스가 자동으로 생성됨
+{이클립스내 project 에 자동 빌더 설정이되있어야 기능함}
+
+실행법 우클릭 {Run As -> Applcation or Ctrl+F11 or play버튼 클릭}
+
+조건문 if else
+
+반복문 where
